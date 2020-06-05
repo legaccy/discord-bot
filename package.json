@@ -5,8 +5,7 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "legaccy",
-  "license": "MIT",
+  "author": "legaccy"
   "dependencies": {
     "express": "^4.16.4",
     "fs": "^0.0.2",
