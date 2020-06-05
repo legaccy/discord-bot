@@ -10,4 +10,3 @@ Manager.on('launch', shard => {
 }).catch(e => {
   log.error(`Unable to check for updates.\nMake sure you've an active internet connection.\n\n${e}`);
 });
-
